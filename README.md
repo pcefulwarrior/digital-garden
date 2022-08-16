@@ -1,2 +1,2 @@
 # [digital-garden](https://pcefulwarrior.github.io/digital-garden/)
-My non-linear personal notebook
+My non-linear knowledge system
