@@ -1,2 +1,2 @@
-# [random-thoughts](https://pcefulwarrior.github.io/random-thoughts/)
+# [digital-gardens](https://pcefulwarrior.github.io/random-thoughts/)
 My non-linear personal notebook
