@@ -1,2 +1,2 @@
-# [digital-garden](https://www.pcefulwarrior.com/digital-garden) 
+# [digital-garden](https://www.pcefulwarrior.com/) 
 My non-linear knowledge system
